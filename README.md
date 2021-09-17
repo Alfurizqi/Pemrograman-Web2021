@@ -1,3 +1,4 @@
 # Pemrograman-Web2021
 
-yuk coba yuk
+minggu 1
+minggu 2
